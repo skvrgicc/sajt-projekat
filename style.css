@@ -1,0 +1,33 @@
+ul li   {
+    list-style: none;
+    display:inline-block;
+    float:left;
+    line-height: 60px;
+
+    
+    
+}
+ul li a  {
+    text-decoration: none;
+    font-size: 20px;
+    color: mediumturquoise;
+    display: block;
+    padding:0 20px;
+    text-align: center;
+  
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: black;
+    height: 60px;
+    width: 100%;
+   
+}
+ul li a:hover{
+    background-color: rgb(206, 209, 16);
+}
+
+
